@@ -91,7 +91,7 @@
   "buffers": [
     {
       "byteLength": 1395196,
-      "uri": "scene.bin"
+      "uri": "https://raw.githubusercontent.com/vincha4evr/prueba/main/models/gian_lorenzo_bernini_david/scene.bin"
     }
   ],
   "extensionsUsed": [
@@ -99,7 +99,7 @@
   ],
   "images": [
     {
-      "uri": "textures/Material_0_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/vincha4evr/prueba/main/models/gian_lorenzo_bernini_david/textures/Material_0_baseColor.jpeg"
     }
   ],
   "materials": [
